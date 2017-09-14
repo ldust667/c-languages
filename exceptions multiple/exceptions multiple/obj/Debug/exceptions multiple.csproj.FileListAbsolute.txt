@@ -1,0 +1,6 @@
+c:\users\dust\documents\visual studio 2015\Projects\exceptions multiple\exceptions multiple\bin\Debug\exceptions multiple.exe.config
+c:\users\dust\documents\visual studio 2015\Projects\exceptions multiple\exceptions multiple\bin\Debug\exceptions multiple.exe
+c:\users\dust\documents\visual studio 2015\Projects\exceptions multiple\exceptions multiple\bin\Debug\exceptions multiple.pdb
+c:\users\dust\documents\visual studio 2015\Projects\exceptions multiple\exceptions multiple\obj\Debug\exceptions multiple.csprojResolveAssemblyReference.cache
+c:\users\dust\documents\visual studio 2015\Projects\exceptions multiple\exceptions multiple\obj\Debug\exceptions multiple.exe
+c:\users\dust\documents\visual studio 2015\Projects\exceptions multiple\exceptions multiple\obj\Debug\exceptions multiple.pdb
